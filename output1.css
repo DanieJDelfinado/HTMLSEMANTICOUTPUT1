@@ -1,0 +1,30 @@
+ .float{
+    float: right;
+ }
+  .flexcontainer{
+     flex-wrap: nowrap;
+     display: flex;
+     padding: 15px;
+     background-color: rgb(88, 153, 131);
+     width: 200px;
+  }
+  body{
+     background-color: rgb(209, 179, 142);
+     margin: 20px;
+     border: 20px solid black;
+  }
+  ul{
+     list-style-type: square;
+     display: inline-block;
+  }
+  a{
+    color: rgb(143, 39, 39);
+  }
+  a:hover{
+      color: blueviolet;
+  }
+   .gridcontainer{
+      background: linear-gradient(pink, violet, orange);
+      padding: 20px;
+   }
+  
